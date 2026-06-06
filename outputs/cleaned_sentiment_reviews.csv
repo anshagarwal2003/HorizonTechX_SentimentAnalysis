@@ -1,0 +1,61 @@
+review_id,customer_review,rating,clean_review,sentiment,review_length
+1,The product quality is excellent and I am very happy,5,the product quality is excellent and i am very happy,Positive,10
+2,"Very bad experience, the product stopped working",1,very bad experience the product stopped working,Negative,7
+3,"Average product, not too good and not too bad",3,average product not too good and not too bad,Neutral,9
+4,I loved the packaging and fast delivery,5,i loved the packaging and fast delivery,Positive,7
+5,"Waste of money, very poor quality",1,waste of money very poor quality,Negative,6
+6,Good product for this price range,4,good product for this price range,Positive,6
+7,The item is okay but delivery was late,3,the item is okay but delivery was late,Negative,8
+8,Amazing experience and great value,5,amazing experience and great value,Positive,5
+9,Not satisfied with the service,2,not satisfied with the service,Negative,5
+10,Product is decent and works fine,3,product is decent and works fine,Neutral,6
+11,Excellent service and very useful product,5,excellent service and very useful product,Positive,6
+12,Bad quality and not recommended,1,bad quality and not recommended,Negative,5
+13,"The product is neutral, nothing special",3,the product is neutral nothing special,Neutral,6
+14,I am happy with the purchase,4,i am happy with the purchase,Positive,6
+15,Poor packaging and damaged item received,1,poor packaging and damaged item received,Negative,6
+16,Very useful and easy to use,5,very useful and easy to use,Positive,6
+17,The quality is not good,2,the quality is not good,Positive,5
+18,Nice product and fast delivery,4,nice product and fast delivery,Positive,5
+19,It is okay for normal use,3,it is okay for normal use,Neutral,6
+20,Worst product I have ever used,1,worst product i have ever used,Negative,6
+21,Great product and good support,5,great product and good support,Positive,5
+22,Not worth the price,2,not worth the price,Negative,4
+23,Satisfied with the performance,4,satisfied with the performance,Positive,4
+24,The delivery was late but product is fine,3,the delivery was late but product is fine,Negative,8
+25,Excellent design and premium quality,5,excellent design and premium quality,Positive,5
+26,Bad service from seller,1,bad service from seller,Negative,4
+27,Good quality and value for money,4,good quality and value for money,Positive,6
+28,Normal product with average features,3,normal product with average features,Neutral,5
+29,I really like this product,5,i really like this product,Positive,5
+30,Very disappointed with the product,1,very disappointed with the product,Negative,5
+31,Fast delivery and good packaging,4,fast delivery and good packaging,Positive,5
+32,The product works as expected,3,the product works as expected,Neutral,5
+33,Poor quality material,1,poor quality material,Negative,3
+34,Happy with the overall experience,5,happy with the overall experience,Positive,5
+35,This product is not useful,2,this product is not useful,Negative,5
+36,Average experience with this order,3,average experience with this order,Neutral,5
+37,Highly recommended product,5,highly recommended product,Positive,3
+38,Very slow delivery and bad packaging,1,very slow delivery and bad packaging,Negative,6
+39,Good performance and nice look,4,good performance and nice look,Positive,5
+40,"Not bad, but can be improved",3,not bad but can be improved,Negative,6
+41,Excellent build quality,5,excellent build quality,Positive,3
+42,I did not like the product,2,i did not like the product,Negative,6
+43,The product is fine for daily use,3,the product is fine for daily use,Neutral,7
+44,Very good service,5,very good service,Positive,3
+45,Bad experience with customer support,1,bad experience with customer support,Negative,5
+46,Amazing quality and smooth performance,5,amazing quality and smooth performance,Positive,5
+47,"Neutral experience, nothing much to say",3,neutral experience nothing much to say,Neutral,6
+48,Poor product and waste of money,1,poor product and waste of money,Negative,6
+49,Good product but price is high,4,good product but price is high,Positive,6
+50,I am satisfied with this item,4,i am satisfied with this item,Positive,6
+51,Worst packaging ever,1,worst packaging ever,Negative,3
+52,Nice and useful product,4,nice and useful product,Positive,4
+53,The item is average,3,the item is average,Neutral,4
+54,Excellent delivery and good quality,5,excellent delivery and good quality,Positive,5
+55,"Bad product, not recommended",1,bad product not recommended,Negative,4
+56,The product is okay,3,the product is okay,Neutral,4
+57,Very happy with the service,5,very happy with the service,Positive,5
+58,Poor performance after few days,1,poor performance after few days,Negative,5
+59,Good value for students,4,good value for students,Positive,4
+60,Great experience overall,5,great experience overall,Positive,3

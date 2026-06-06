@@ -1,0 +1,36 @@
+
+CUSTOMER REVIEW SENTIMENT ANALYSIS REPORT
+
+1. Project Overview
+This project analyzes customer reviews and classifies them into Positive, Negative, and Neutral sentiments.
+
+2. Dataset Overview
+Total Reviews: 60
+Total Columns: 6
+
+3. Data Cleaning
+- Missing values were checked and handled.
+- Duplicate records were removed.
+- Review text was converted into lowercase.
+- Special characters were removed from reviews.
+
+4. Sentiment Summary
+Positive Reviews: 28
+Negative Reviews: 21
+Neutral Reviews: 11
+
+5. Rating Statistics
+Minimum Rating: 1
+Maximum Rating: 5
+Average Rating: 3.17
+
+6. Key Insights
+- Positive reviews show customer satisfaction.
+- Negative reviews highlight issues related to quality, delivery, or service.
+- Neutral reviews show average customer experience.
+- Rating and sentiment are strongly connected.
+- Sentiment analysis helps understand customer opinion in a simple way.
+
+7. Conclusion
+This project performs text cleaning, sentiment classification, visualization, and report generation.
+It helps understand customer feedback and supports better decision-making.
